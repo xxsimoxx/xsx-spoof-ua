@@ -6,7 +6,7 @@
  * Description: Change ClassicPress User Agent
  * Version: 1.0.0
  * Requires PHP: 5.6
- * Requires CP: 2.3
+ * Requires CP: 2.4
  * Author: Simone Fioravanti
  * Author URI: https://software.gieffeedizioni.it
  * Plugin URI: https://software.gieffeedizioni.it
