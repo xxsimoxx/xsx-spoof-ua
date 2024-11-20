@@ -7,6 +7,6 @@ Plugin for [ClassicPress](https://www.classicpress.net/).
 
 ## Change your User Agent to whatever you want.
 
-Go to Settings > Spoof User Agent to configure the User Agent exposed when doing HTTP request.
+Go to Settings > Spoof User Agent to configure the User Agent exposed when doing HTTP requests.
 
 
